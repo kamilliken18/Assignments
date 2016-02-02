@@ -1,6 +1,6 @@
 
-
-
+Github wouldn't let me push the .java file. I will be rectifying this later this week. 
+*** PLEASE OPEN RAW TO GET CODE AS IS ON .JAVA FILE.
 
 import java.util.Scanner;
 
