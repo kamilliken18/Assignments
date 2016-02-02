@@ -8,7 +8,7 @@ Assignment #: 1
 
 GitHub username: kamilliken18
 
-URL of repository: https://github.com/kamilliken18/Assignments/new/master?readme=1
+URL of repository: https://github.com/kamilliken18/Assignments
 
 Lab Instructor: Sam Kopansky
 
