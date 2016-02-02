@@ -30,3 +30,6 @@ When you want to modify the order, you can only modify one thing.
 Trying to build a loop to address this created a ton of compiling errors,
 so I opted to not fail the assignment. I don't really think of this as an 
 outright runtime error, but more of a point for revision.
+
+Also github is being rude and won't let me push the original java file to this repo. 
+I included it as a .md and emailed a copy to Prof Laboon.
