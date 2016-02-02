@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class BookwormBills{
+
 	public static void main (String[] args){
 		
 		boolean customersPresent = true;
