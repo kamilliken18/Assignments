@@ -6,12 +6,12 @@ import java.util.Scanner;
 
 public class BookwormBills{
 
-	public static void main (String[] args){
+public static void main (String[] args){
 		
 		boolean customersPresent = true;
 		int customerCounter = 0; 
 	
-		do { //starts loop for customers 
+	do { //starts loop for customers 
 			customerCounter++; //counts up customers each time loop restarts
 			
 		//conditions for loop continuation
